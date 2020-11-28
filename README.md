@@ -1,6 +1,8 @@
 # lzcHackintosh-ASUS-A480U-X442UR
 Hackintosh for ASUS A480U Notebook &amp; X442UR Mainboard
 
+# Languages
+[简体中文](https://github.com/Lzc256/lzcHackintosh-ASUS-A480U-X442UR/blob/main/README_zh_cn.md)
 
 # Intro
 Supported up to macOS Catalina 10.15.7 (Tested). All Devices work except Wireless Network Card.
